@@ -1,6 +1,4 @@
+Learn CS008-Resume
 
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+This project is a resume for Elisabeth Chua. It reviews her work experience from past and present jobs in order for any future employers to see her accomplishments. It began as an assignment or her Computer Science class and has become a tool for her to use for applying for occupations.
+![Description of Image](img/Screenshot.jpg)
